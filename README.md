@@ -2,9 +2,10 @@
 - :technologist: **Member, Swift C++ Interop Workgroup, Swift Team**
 - 👤 I'm an **Apple Developer**, Focus on visionOS app develop.
 - 👀 I’m interested in Swift.
-- 🌱 I’m currently learning Computer graphics.
-- 👓 I'm develop visionOS app, this is my app - **GardenLab** : https://apps.apple.com/us/app/jiaxu-li-gardenlab/id6475539220.
+- 🌱 SSC 26 & 24 Winner
+- 👓 I'm develop app, this is my app - jiaxuli.com.
 - 💬 My WWDC third-party community **Envision WWDC** is in progress：https://envisionwwdc.org
+- 📰 Head of [MacDigest](https://macdigest.news)
 - 📘 Author of _Swift Starter Guide_ (Apple Books)
 - 🍏 **Apple Services Performance Partner**
 - 🤝 I’m looking to collaborate on Apple Inc.
