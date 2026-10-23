@@ -7,7 +7,7 @@
   Swift Evolution proposal author · C++ Interoperability Workgroup member<br>
   Envision WWDC founder · MacDigest lead · Swift Starter Guide author<br>
   Swift Student Challenge winner (2024 & 2026) · MAIC First Prize winner<br>
-  Apple-acknowledged security researcher · Apple Teacher
+  <em>Apple-acknowledged security researcher · Apple Teacher</em>
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ---
 
-I’m Jiaxu Li, a student developer building apps for Apple platforms and contributing to the tools and language behind them.
+I’m **Jiaxu Li**, a student developer building apps for Apple platforms and contributing to the tools and language behind them.
 
 My work spans **Swift language evolution, C++ interoperability, developer tooling, SwiftUI, Metal, and spatial computing**. I maintain open-source projects, ship apps, and share what I learn through communities, writing, and developer events.
 
-## Swift & language work
+## 🐦 Swift & language work
 
 ### C++ Interoperability Workgroup
 
@@ -39,7 +39,7 @@ I authored **SE-0554: Deployment Target Conditional Compilation**, proposing `#i
 
 [Explore my pull requests across the Swift organization →](https://github.com/search?q=org%3Aswiftlang+author%3AJiaxu-Li&type=pullrequests)
 
-## Open-source projects
+## 🧩 Open-source projects
 
 <p align="center">
   <a href="https://github.com/Jiaxu-Li/GlassIntroKit">
@@ -68,7 +68,7 @@ Built with Swift and SwiftSyntax. Reports findings alongside analysis coverage, 
 
 [Source](https://github.com/Jiaxu-Li/SwiftDelta) · [Releases](https://github.com/Jiaxu-Li/SwiftDelta/releases/latest) · [Documentation](https://github.com/Jiaxu-Li/SwiftDelta/tree/main/Documentation)
 
-## GitHub at a glance
+## 📊 GitHub at a glance
 
 <p align="center">
   <img height="190" src="https://github-stats-extended.vercel.app/api?username=Jiaxu-Li&show_icons=true&hide_rank=true&theme=dark_github&hide_border=true" alt="Jiaxu Li’s GitHub statistics">
@@ -79,7 +79,7 @@ Built with Swift and SwiftSyntax. Reports findings alongside analysis coverage, 
   <sub>Charts reflect public GitHub data. Language proportions describe repository contents, not proficiency.</sub>
 </p>
 
-## Apps I build
+## 📱 Apps I build
 
 I build across **iPhone, iPad, Mac, and Apple Vision Pro**, with a particular interest in spatial experiences and accessible interaction.
 
@@ -95,7 +95,7 @@ GardenLab was available on the App Store on **Apple Vision Pro launch day**.
 
 [Explore the apps, screenshots, and design stories →](https://jiaxuli.com/apps/)
 
-## Recognition
+## 🏆 Recognition
 
 | Year | Recognition |
 | :--- | :--- |
@@ -120,7 +120,7 @@ GardenLab was available on the App Store on **Apple Vision Pro launch day**.
 
 </details>
 
-## Security
+## 🔐 Security
 
 Apple acknowledged my assistance in its security release notes for:
 
@@ -131,7 +131,7 @@ These acknowledgements appear under **Additional recognition**.
 
 For security issues in my projects, please follow the repository’s security policy or [contact me privately](mailto:lijiaxudeapple@icloud.com).
 
-## Community & writing
+## ✍️ Community & writing
 
 ### Envision WWDC
 
@@ -173,5 +173,5 @@ Those apps have since been retired, but each one taught me something I still use
 </p>
 
 <p align="center">
-  <sub>Think Different.</sub>
+  <sub><em>Think Different.</em></sub>
 </p>
