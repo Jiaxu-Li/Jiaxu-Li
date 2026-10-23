@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
-  <strong>Swift contributor & proposal author</strong><br>
-  C++ Interoperability Workgroup member · Apple-platform developer<br>
-  Swift Student Challenge winner — 2024 & 2026
+  <strong>Apple-platform developer · Open-source maintainer · Swift contributor</strong><br>
+  Swift Evolution proposal author · C++ Interoperability Workgroup member<br>
+  Envision WWDC founder · MacDigest lead · Swift Starter Guide author<br>
+  Swift Student Challenge winner (2024 & 2026) · MAIC First Prize winner<br>
+  Apple-acknowledged security researcher · Apple Teacher
 </p>
 
 <p align="center">
