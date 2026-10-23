@@ -886,7 +886,7 @@
 <circle cx="864" cy="68" r="5" fill="#c4b7e0" opacity=".18" filter="url(#glow)"/><circle cx="864" cy="68" r="1.15" fill="#c4b7e0" opacity=".85"/>
 <circle cx="1091" cy="107" r="5" fill="#e4d5ad" opacity=".18" filter="url(#glow)"/><circle cx="1091" cy="107" r="1.15" fill="#e4d5ad" opacity=".85"/>
 <circle cx="74" cy="280" r="5" fill="#a9c8e7" opacity=".18" filter="url(#glow)"/><circle cx="74" cy="280" r="1.15" fill="#a9c8e7" opacity=".85"/>
-<text x="600" y="193" text-anchor="middle" fill="#f5f5f7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="600" letter-spacing="-1.5">Jiaxu Li</text>
+<text x="600" y="193" text-anchor="middle" fill="#f5f5f7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="300" letter-spacing="-1.5">Jiaxu Li</text>
 <text x="600" y="234" text-anchor="middle" fill="#9a9ba3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" letter-spacing=".3">Swift · Open Source · Apple Platforms</text>
 </g>
 </svg>

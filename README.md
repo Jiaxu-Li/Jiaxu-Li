@@ -11,8 +11,10 @@
 
 <p align="center">
   <a href="https://jiaxuli.com/">Website</a> &emsp;
+  <a href="https://github.com/Jiaxu-Li">GitHub</a> &emsp;
   <a href="https://forums.swift.org/u/jiaxuli/summary">Swift Forums</a> &emsp;
-  <a href="https://envisionwwdc.org">Envision WWDC</a> &emsp;
+  <a href="https://x.com/JiaxuLiDev">X</a> &emsp;
+  <a href="https://medium.com/@lijiaxudeapple">Medium</a> &emsp;
   <a href="mailto:lijiaxudeapple@icloud.com">Email</a>
 </p>
 
