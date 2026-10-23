@@ -3,17 +3,16 @@
 </p>
 
 <p align="center">
-  <strong>Apple-platform developer · Open-source maintainer · Swift contributor</strong><br>
-  Swift Evolution proposal author · C++ Interoperability Workgroup member<br>
-  Envision WWDC founder · MacDigest lead · Swift Starter Guide author<br>
-  Swift Student Challenge winner (2024 & 2026) · MAIC First Prize winner<br>
-  <em>Apple-acknowledged security researcher · Apple Teacher</em>
+  <strong>Apple-platform developer, open-source maintainer &amp; Swift contributor</strong><br>
+  C++ Interoperability Workgroup member<br>
+  Envision WWDC founder &amp; MacDigest lead<br>
+  Swift Student Challenge winner
 </p>
 
 <p align="center">
-  <a href="https://jiaxuli.com/">Website</a> ·
-  <a href="https://forums.swift.org/u/jiaxuli/summary">Swift Forums</a> ·
-  <a href="https://envisionwwdc.org">Envision WWDC</a> ·
+  <a href="https://jiaxuli.com/">Website</a> &emsp;
+  <a href="https://forums.swift.org/u/jiaxuli/summary">Swift Forums</a> &emsp;
+  <a href="https://envisionwwdc.org">Envision WWDC</a> &emsp;
   <a href="mailto:lijiaxudeapple@icloud.com">Email</a>
 </p>
 
@@ -29,13 +28,13 @@ My work spans **Swift language evolution, C++ interoperability, developer toolin
 
 I’m a member of the **Swift C++ Interoperability Workgroup**, which works on bidirectional interoperability between Swift and C++. I joined in October 2025.
 
-[About the workgroup](https://www.swift.org/cxx-interop-workgroup/) · [Swift Forums group](https://forums.swift.org/g/cxx-interop-workgroup)
+[About the workgroup](https://www.swift.org/cxx-interop-workgroup/) &emsp; [Swift Forums group](https://forums.swift.org/g/cxx-interop-workgroup)
 
 ### Swift Evolution
 
 I authored **SE-0554: Deployment Target Conditional Compilation**, proposing `#if deploymentTargetAtLeast(...)` to conditionally compile code based on a module’s minimum deployment target.
 
-[Read the proposal](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0554-deployment-target-conditional-compilation.md) · [Review discussion](https://forums.swift.org/t/se-0554-deployment-target-conditional-compilation/89822)
+[Read the proposal](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0554-deployment-target-conditional-compilation.md) &emsp; [Review discussion](https://forums.swift.org/t/se-0554-deployment-target-conditional-compilation/89822)
 
 [Explore my pull requests across the Swift organization →](https://github.com/search?q=org%3Aswiftlang+author%3AJiaxu-Li&type=pullrequests)
 
@@ -56,7 +55,7 @@ I authored **SE-0554: Deployment Target Conditional Compilation**, proposing `#i
 
 Add an introduction with one modifier. Compose eight kinds of pages, from a greeting written in glass to interactive graphics and custom SwiftUI content. Built for iOS and macOS, with accessibility support, no package dependencies, and no network requests.
 
-[Source](https://github.com/Jiaxu-Li/GlassIntroKit) · [Documentation](https://github.com/Jiaxu-Li/GlassIntroKit/tree/main/Documentation)
+[Source](https://github.com/Jiaxu-Li/GlassIntroKit) &emsp; [Documentation](https://github.com/Jiaxu-Li/GlassIntroKit/tree/main/Documentation)
 
 ### SwiftDelta
 
@@ -66,7 +65,7 @@ A terminal app that compares an Apple-platform project across two local Xcode in
 
 Built with Swift and SwiftSyntax. Reports findings alongside analysis coverage, with optional on-device assistance from Apple Foundation Models.
 
-[Source](https://github.com/Jiaxu-Li/SwiftDelta) · [Releases](https://github.com/Jiaxu-Li/SwiftDelta/releases/latest) · [Documentation](https://github.com/Jiaxu-Li/SwiftDelta/tree/main/Documentation)
+[Source](https://github.com/Jiaxu-Li/SwiftDelta) &emsp; [Releases](https://github.com/Jiaxu-Li/SwiftDelta/releases/latest) &emsp; [Documentation](https://github.com/Jiaxu-Li/SwiftDelta/tree/main/Documentation)
 
 ## 📊 GitHub at a glance
 
@@ -168,7 +167,7 @@ Those apps have since been retired, but each one taught me something I still use
 </p>
 
 <p align="center">
-  <a href="mailto:lijiaxudeapple@icloud.com"><strong>Get in touch</strong></a> ·
+  <a href="mailto:lijiaxudeapple@icloud.com"><strong>Get in touch</strong></a> &emsp;
   <a href="https://jiaxuli.com/">More about my work</a>
 </p>
 
